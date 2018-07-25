@@ -23,11 +23,17 @@
     font-family: sans-serif; color: white
 }
 #n3{
-    font-family: sans-serif; color: 
+    font-family: sans-serif; color: white
 }
 #n4{
     font-family: sans-serif; color:white;
 }
 .n5{
     color:white; font-family: sans-serif
+}
+img{
+    border-radius:8px;
+}
+h1{
+    text-shadow: 2px 2px 5px white;
 }
