@@ -10,10 +10,11 @@
     color: white;font-family: sans-serif
 }
 .first{
-    font-family: sans-serif;
+    font-family: sans-serif;color: white
 }
 #nike{
-    text-align: center; font-size: larger;font-family: sans-serif
+    text-align: center; font-size: larger;font-family: sans-serif; color: white
+    
     
 }
 #n1{
@@ -36,4 +37,7 @@ img{
 }
 h1{
     text-shadow: 2px 2px 5px white;
+}
+#done{
+    color: white
 }
